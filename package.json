@@ -1,0 +1,19 @@
+{
+  "name": "is-prime",
+  "version": "1.0.0",
+  "description": "function to check prime numbers",
+  "main": "is-prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbredetss/is-prime.git"
+  },
+  "author": "mbredetss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbredetss/is-prime/issues"
+  },
+  "homepage": "https://github.com/mbredetss/is-prime#readme"
+}
